@@ -1,4 +1,4 @@
-# Hands-on session RNAseq: from reads to counts
+# Hands-on session ChIPseq: from reads to counts
 
 ### IN ORDER TO RUN THE EXERCISE IN CLASS WE ARE GOING TO USE A SUBSET OF THE INITIAL FILES
 
